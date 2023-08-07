@@ -200,6 +200,10 @@ header {
     border: 1px solid var(--other-border-color);
 }
 
+.highlight-texts {
+    align-self: center;
+}
+
 .highlight-title {
     color: var(--body-text-color);
     font-size: 1.2rem;
